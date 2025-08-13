@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('어서와~~')
+st.title('환영해!')
